@@ -1,0 +1,14 @@
+# Local virtual environment
+.venv/
+
+# Downloaded ENSO data (~412 MB SST file)
+data/
+models/
+
+# Execution logs and pre-run backup
+nbrun*.log
+*.ORIG.ipynb
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
